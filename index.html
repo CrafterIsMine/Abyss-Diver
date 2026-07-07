@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Abyss Diver</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<canvas id="cv"></canvas>
+<div id="hud_layer">
+<div id="hull_bar">
+<div id="hull_fill"></div>
+<span id="hull_txt">100</span>
+</div>
+<div id="stats_panel">
+<div id="spd_txt">0 kn</div>
+<div id="dpt_txt">0 m</div>
+<div id="scrap_txt">0</div>
+<div id="boost_bar"><div id="boost_fill"></div></div>
+</div>
+<div id="sonar_panel">
+<canvas id="snr_cv" width="180" height="180"></canvas>
+</div>
+</div>
+<div id="menu_layer" class="active">
+<div id="title_scr">
+<h1>ABYSS DIVER</h1>
+<p>WASD to move and SPACE(Hold) to boost</p>
+<button id="start_btn">DIVE</button>
+</div>
+<div id="death_scr" class="hidden">
+<h1>HULL BREACH</h1>
+<p id="death_stats"></p>
+<button id="retry_btn">RESURFACE</button>
+</div>
+<div id="upgrade_scr" class="hidden">
+<h1>UPGRADES</h1>
+<div id="upg_list"></div>
+<button id="close_upg_btn">RETURN</button>
+</div>
+</div>
+<script type="module" src="js/main.js"></script>
+</body>
+</html>
+
