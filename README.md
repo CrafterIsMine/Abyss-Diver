@@ -14,7 +14,7 @@ The main goal is to prioritize depth progression which is counted in kilometers.
 
 **Inspiration: This game is inspired by games like iron lung and subnautica along with the classic touch of arcade style gameplay and upgrades.**
 
-**Theme: Endless**
+**Theme: Endless**<br>
 This project fits the theme as the world is procedurally generated as the player moves on and on in their submarine and the upgrades offer more replayability and interesting
 aspect to the game. The player has to travel infinitely into the depths of the ocean avoiding as well as sacrificing some of their health on the way to get upgrades
 and get more prepared to reach furthur depths.
