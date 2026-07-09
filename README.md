@@ -10,7 +10,7 @@ and tackle enemies on your way to earn scraps. Through scraps you can upgrade yo
 4. W and S keys are for moving forward and backward and they should be used in coordination with A and D key that control the direction the submarine is facing,
    this is indicated by the headlights of the submarine.
 
-The main goal is to prioritize depth progression which is counted in kilometers.
+The main goal is to prioritize depth progression which is counted in metres.
 
 **Inspiration: This game is inspired by games like iron lung and subnautica along with the classic touch of arcade style gameplay and upgrades.**
 
